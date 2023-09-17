@@ -1,0 +1,39 @@
+.whole-page {
+  text-align: center;
+  padding: 12% 37%;
+}
+.page {
+  color: #28cbff;
+}
+.int-back {
+  background-color: rgb(11 18 32);
+  padding: 70px;
+  border-radius: 230px 0px 0px 0px;
+}
+.AYR {
+  background-color: rgb(11 18 32);
+  border-radius: 0px 0px 230px 0px;
+  padding: 30px;
+}
+.Principal-Amount {
+  display: block;
+  margin: auto;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  height: 20px;
+  border-radius: 124px;
+}
+.Year {
+  display: block;
+  margin: auto;
+}
+.Rate {
+  display: block;
+  margin: auto;
+}
+.sub {
+  background-color: rgb(11 18 32);
+  color: white;
+  border-radius: 90px 90px;
+  margin: 15px;
+  padding: 10px 30px;
+}
